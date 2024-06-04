@@ -91,7 +91,7 @@ async def alip(client: Client, message: Message):
         f"{emoji} <b>𝐏ʏᴛʜᴏ𝐍 𝐕ᴇʀꜱɪᴏ𝐍:</b> <code>{python_version()}</code> \n\n"
         f"{emoji} <b>𝐆ʀᴏᴜ𝐏 :</b> [𝐒ᴜᴘᴘᴏʀ𝐓](https://t.me/R_I_S_I_NG)** \n\n"
         f"{emoji} <b>𝐂ʜᴀɴɴᴇʟ:<b> [𝐔ᴘᴅᴀᴛᴇ𝐒](https://t.me/ROYAL_WORLD_84)** \n\n"
-        f"{emoji} <b>[𝐃ᴇᴘʟᴏʏ](http://dashboard.heroku.com/new?template=https://github.com/Sumankumar81547/Japanese-X-UserbotMOHIT) 𝐘ᴏᴜʀ 𝐎ᴡɴ [𝐉𝐀𝐏𝐀𝐍𝐄𝐒𝐄-𝐗-𝐔𝐒𝐄𝐑𝐁𝐎𝐓](http://github.com/Team-Japanese/Japanese-X-Userbot) ✧\n\n"
+        f"{emoji} <b>[𝐃ᴇᴘʟᴏʏ](http://dashboard.heroku.com/new?template=https://github.com/Sumankumar81547/Japanese-X-UserbotMOHIT) 𝐘ᴏᴜʀ 𝐎ᴡɴ [𝐉𝐀𝐏𝐀𝐍𝐄𝐒𝐄-𝐗-𝐔𝐒𝐄𝐑𝐁𝐎𝐓](http://github.com/Sumankumar81547/Japanese-X-UserbotMOHIT) ✧\n\n"
         
     )
     try:
